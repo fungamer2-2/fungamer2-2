@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on [HumanlikeAI](https://github.com/fungamer2-2/HumanlikeAI)
+- 😄 Pronouns: he/him
+
 <!--
 **fungamer2-2/fungamer2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

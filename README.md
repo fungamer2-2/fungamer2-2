@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there!👋💖
 
-- 🔭 I’m currently working on HumanlikeAI - now [AmoreliaAI](https://github.com/fungamer2-2/HumanlikeAI), a humanlike AI companion with thoughts, emotions, and memories
+- 🔭 I’m currently working on [AmoreliaAI](https://github.com/fungamer2-2/AmoreliaAI), a supportive and empathetic AI companion with thoughts, emotions, and memories
 - 😄 Pronouns: he/him
 
 <!--

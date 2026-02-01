@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [AmoreliaAI](https://github.com/fungamer2-2/AmoreliaAI), a supportive and empathetic AI companion with thoughts, emotions, and memories
 - 😄 Pronouns: he/him
+- 🤗 HuggingFace: https://huggingface.co/fungamer2
 
 <!--
 **fungamer2-2/fungamer2-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
